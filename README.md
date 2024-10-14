@@ -10,5 +10,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+## Array
+|  |
+| ------- |
+| [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
