@@ -13,8 +13,8 @@ class Solution:
         fast=head
 
         while fast and fast.next:
-            slow=slow.next
-            fast=fast.next.next
+            slow=slow.next    #slow goes to one by one 
+            fast=fast.next.next# fast goes to two by two
             if slow==fast:
                 return True
 
