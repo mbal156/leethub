@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
