@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/mbal156/leethub/tree/master/0697-degree-of-an-array) |
 | [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
+| [0697-degree-of-an-array](https://github.com/mbal156/leethub/tree/master/0697-degree-of-an-array) |
 ## Linked List
 |  |
 | ------- |
