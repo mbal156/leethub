@@ -18,10 +18,15 @@ class Solution:
         
         max_freq = max(frequency.values())
         
-        for num, freq in frequency.items():
+        for i in range(len (nums)):
+            
+            num = nums[i]
+            freq = frequency[num]
+    
             if freq == max_freq:
                 length = last_index[num] - first_index[num] + 1
                 listofsub.append(length)
+
         
        
         return min(listofsub)
