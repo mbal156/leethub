@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mbal156/leethub/tree/master/0217-contains-duplicate) |
 | [0697-degree-of-an-array](https://github.com/mbal156/leethub/tree/master/0697-degree-of-an-array) |
 | [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/mbal156/leethub/tree/master/0217-contains-duplicate) |
 | [0697-degree-of-an-array](https://github.com/mbal156/leethub/tree/master/0697-degree-of-an-array) |
 ## Linked List
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mbal156/leethub/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mbal156/leethub/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
