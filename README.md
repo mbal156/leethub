@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/mbal156/leethub/tree/master/0500-keyboard-row) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mbal156/leethub/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/mbal156/leethub/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/mbal156/leethub/tree/master/0697-degree-of-an-array) |
 | [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
 ## Hash Table
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/mbal156/leethub/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/mbal156/leethub/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/mbal156/leethub/tree/master/0697-degree-of-an-array) |
 ## Linked List
 |  |
