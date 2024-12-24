@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mbal156/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/mbal156/leethub/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/mbal156/leethub/tree/master/0500-keyboard-row) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mbal156/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/mbal156/leethub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
