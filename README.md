@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mbal156/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0500-keyboard-row](https://github.com/mbal156/leethub/tree/master/0500-keyboard-row) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mbal156/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/mbal156/leethub/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mbal156/leethub/tree/master/0217-contains-duplicate) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mbal156/leethub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
