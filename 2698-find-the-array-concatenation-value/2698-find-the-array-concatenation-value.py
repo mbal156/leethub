@@ -4,7 +4,7 @@ class Solution:
         j=len(nums)-1
         sumofcon=0
         while(i<j):
-            conval=int(str(nums[i])+str(nums[j]))
+            conval=int(str(nums[i])+str(nums[j]))   
             sumofcon+=conval
             i+=1
             j-=1 
