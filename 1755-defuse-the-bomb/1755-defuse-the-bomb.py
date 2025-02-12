@@ -1,8 +1,8 @@
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:    
-        result=[0]*len(code)    
+        elist=[]    
         if k==0:
-            return result
+            return [0]*len(code)
 
 
         for i in range(len(code)):
@@ -14,8 +14,8 @@ class Solution:
             else :
                 for j in range(1,abs(k)+1):
                     count+=code[(i-j)%len(code)]       
-            result[i]=count        
+            elist.append(count)        
         
-        return result    
+        return elist  
                 
                 
