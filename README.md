@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mbal156/leethub/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/mbal156/leethub/tree/master/0500-keyboard-row) |
 | [0953-reverse-only-letters](https://github.com/mbal156/leethub/tree/master/0953-reverse-only-letters) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mbal156/leethub/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
 | ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mbal156/leethub/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/mbal156/leethub/tree/master/1755-defuse-the-bomb) |
 | [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2698-find-the-array-concatenation-value](https://github.com/mbal156/leethub/tree/master/2698-find-the-array-concatenation-value) |
+## Math
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mbal156/leethub/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
