@@ -12,7 +12,7 @@ class Solution:
         while lA!=lB:  # la ve lb eşit olana kadar devam eder ayrıca ikisi none olduğunda da döngü biter(When Both la and lb is equal ,the lap ends .Also both of them will be None then it ends  )
 
             if lA:
-                lA=lA.next
+                lA=lA.next  # iki liste aynı uzunlukta olmadığı için la none olduğunda headb yani listB nin başı olur.lb içinde aynı şekilde  
             else:
                 lA=headB        
             if lB:
