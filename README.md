@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mbal156/leethub/tree/master/0500-keyboard-row) |
 | [0953-reverse-only-letters](https://github.com/mbal156/leethub/tree/master/0953-reverse-only-letters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mbal156/leethub/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mbal156/leethub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mbal156/leethub/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/mbal156/leethub/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mbal156/leethub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mbal156/leethub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/mbal156/leethub/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mbal156/leethub/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Array
