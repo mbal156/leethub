@@ -12,8 +12,8 @@ class Solution:
             temp=temp.next
 
         temp=head
-
-        while temp:
+        m=int(len(stack)/2)
+        for _ in range(m):
             
             if temp.val!=stack.pop():
                 return False
